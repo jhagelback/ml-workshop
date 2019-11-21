@@ -1,2 +1,6 @@
 .ipynb_checkpoints
+.ipython/
+.keras/
+.cache/
+.local/
 
