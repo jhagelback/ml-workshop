@@ -3,4 +3,5 @@
 .keras/
 .cache/
 .local/
+.DS_Store
 
